@@ -23,7 +23,7 @@ CHAP is written in C++ and is developed and tested on Ubuntu Linux. It is expect
 To obtain a copy of CHAP, visit the [Releases Section][CHAP-Download] on GitHub and download the archive corresponding to the desired version. Alternatively, you can download the code directly from the command line via:
 
 ```sh
-wget https://github.com/channotation/chap/archive/version_0_8_0.tar.gz
+wget https://github.com/channotation/chap/archive/version_0_9_1.tar.gz
 ```
 
 As CHAP is still a young project with new features and bug fixes being added continuously, you will usually want to download the latest version.
